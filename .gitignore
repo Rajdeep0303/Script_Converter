@@ -1,0 +1,13 @@
+node_modules/
+.env
+listings.csv
+.vscode
+package-lock.json
+yarn.lock
+.DS_Store
+.env.local
+.env.development
+.env.test
+.env.production
+.env.staging
+.env.prod
